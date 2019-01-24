@@ -1,0 +1,29 @@
+.lead {
+    color: rgb(182, 10, 10);
+    font-family: 'Rambla', sans-serif;
+}
+
+.display-4 {
+        width: 100%;
+        text-align: center;
+        font-size: 3rem;
+        font-family: 'Rambla', sans-serif;
+        /* text-decoration: underline; */
+        color: rgb(182, 10, 10);
+        /* margin-bottom: 50px; */
+        
+}
+
+.jumbotron {
+    background-color: black;
+    margin-bottom: 0;
+    text-align: center;
+    height: 40%;
+    /* background-image: url("./images/space2.webp");
+    background-size: cover; */
+}
+
+.my-4 {
+    color: rgb(182, 10, 10);
+    font-family: 'Rambla', sans-serif;
+}
